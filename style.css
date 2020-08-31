@@ -1,0 +1,80 @@
+/*1% width= 19,02px*/
+/*1% height= 9.5px*/
+
+body{
+	background-color: #fff;
+	overflow-x: hidden;
+}
+
+h2{
+	font-size: 2.6vw;
+	color: #00fc95;
+	font-family: 'Francois One', sans-serif;
+}
+
+h4{
+	font-size: 0.8vw;
+	color: #000;
+	font-family: 'Francois One', sans-serif;
+}
+
+p{
+	font-size: 0.988vw;
+	color: #000;
+	font-family: 'Francois One', sans-serif;
+	position: absolute;
+	left: 35%;
+}
+
+#articles{
+	position: absolute;
+	top: 100%;
+}
+
+#div2{
+	width: 100%;
+}
+
+#div3{
+	width: 100%;
+}
+
+.abase{
+	width: 30%;
+	height: 30%;
+	box-shadow: 0.052vw 0.052vw 0.624vw black;
+}
+
+#bande{
+	width: 100%;
+	height: 5%;
+	background-color: #fff;
+	text-align: center;
+	box-shadow: 0.052vw 0.052vw 0.624vw black;
+	position: absolute;
+	top: 0%;
+	left: 0%;
+}
+
+#img1{
+	width: 57.8338590957%;
+	position: absolute;
+	top: 5%;
+	left: 21.0304942166%;
+}
+
+#img2{
+	width: 57.8338590957%;
+	position: absolute;
+	top: 5%;
+	left: 21.0304942166%;
+}
+
+h1{
+	font-size: 9vw;
+	color: #00b4ff;
+	font-family: 'Francois One', sans-serif;
+	position: absolute;
+	top: 60%;
+	left: 37.9579390116%;
+}
