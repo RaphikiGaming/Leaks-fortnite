@@ -58,6 +58,7 @@ p{
 #img1{
 	width: 90%;
 	position: absolute;
+	box-shadow: 0.052vw 0.5vw 2vw black;
 	top: 5%;
 	left: 5%;
 }
