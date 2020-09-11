@@ -28,7 +28,7 @@ p{
 
 #articles{
 	position: absolute;
-	top: 80%;
+	top: 65%;
 	left: 5%;
 }
 
@@ -93,7 +93,7 @@ h1{
 	color: #fff;
 	padding: 5.2vw;
 	background-color: #7289da;
-	border: 1.1vw solid #fff;
+	border: 0.6vw solid #fff;
 	border-radius: 2.2vw;
 	outline: none;
 	cursor: pointer;
