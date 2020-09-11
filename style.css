@@ -23,7 +23,7 @@ p{
 	color: #000;
 	font-family: 'Francois One', sans-serif;
 	position: absolute;
-	left: 35%;
+	left: 55%;
 }
 
 #articles{
@@ -40,8 +40,8 @@ p{
 }
 
 .abase{
-	width: 30%;
-	height: 30%;
+	width: 50%;
+	height: 50%;
 	box-shadow: 0.052vw 0.052vw 0.624vw black;
 }
 
