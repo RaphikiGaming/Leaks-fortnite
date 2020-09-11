@@ -28,7 +28,7 @@ p{
 
 #articles{
 	position: absolute;
-	top: 50%;
+	top: 80%;
 	left: 5%;
 }
 
@@ -41,7 +41,7 @@ p{
 }
 
 .abase{
-	width: 95%;
+	width: 90%;
 	box-shadow: 0.052vw 0.052vw 2vw black;
 }
 
