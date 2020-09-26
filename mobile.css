@@ -84,7 +84,7 @@ h1{
 	height: 32vh;
 	background-color: #8461b3;
 	border-radius: 1.2vw;
-	position: absolute;
+	position: relative;
 	left: 0%;
 }
 
