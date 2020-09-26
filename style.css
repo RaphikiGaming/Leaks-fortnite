@@ -59,14 +59,6 @@ p{
 
 #img1{
 	width: 57.8338590957%;
-	box-shadow: 0.052vw 0.18vw 0.624vw black;
-	position: absolute;
-	top: 5%;
-	left: 21.0304942166%;
-}
-
-#img2{
-	width: 57.8338590957%;
 	position: absolute;
 	top: 5%;
 	left: 21.0304942166%;
@@ -77,7 +69,7 @@ h1{
 	color: #00b4ff;
 	font-family: 'Francois One', sans-serif;
 	position: absolute;
-	top: 60%;
+	top: 60.5%;
 	left: 37.9579390116%;
 }
 
